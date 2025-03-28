@@ -36,12 +36,12 @@ export default Vue.extend({
             repos: [] as Repository[],
             experiences: {
                 jobs: [
-                    {
-                        title: 'Hexbyte',
-                        url: 'https://github.com/hexbytemd',
-                        position: 'Co-founder & DevOps',
-                        date: 'Forthcoming'
-                    },
+                    // {
+                    //     title: 'Hexbyte',
+                    //     url: 'https://github.com/hexbytemd',
+                    //     position: 'Co-founder & DevOps',
+                    //     date: 'Forthcoming'
+                    // },
                     {
                         title: 'Shikiology',
                         url: 'https://github.com/shikiology',
@@ -60,36 +60,42 @@ export default Vue.extend({
                         position: 'Co-founder & developer',
                         date: '2023-future'
                     },
-                    {
-                        title: 'GoHUGO Fixit',
-                        url: 'https://github.com/hugo-fixit',
-                        position: 'Core developer',
-                        date: '2022-2023'
-                    },
-                    {
-                        title: 'Microsoft 365 Developer Program',
-                        url: 'https://developer.microsoft.com/en-us/microsoft-365/dev-program',
-                        position: 'Core contributor',
-                        data: '2020-2022'
-                    }
+                    // {
+                    //     title: 'GoHUGO Fixit',
+                    //     url: 'https://github.com/hugo-fixit',
+                    //     position: 'Core developer',
+                    //     date: '2022-2023'
+                    // },
+                    // {
+                    //     title: 'Microsoft 365 Developer Program',
+                    //     url: 'https://developer.microsoft.com/en-us/microsoft-365/dev-program',
+                    //     position: 'Core contributor',
+                    //     data: '2020-2022'
+                    // }
                 ],
                 education: [
                     {
-                        title: 'University of California, San Diego',
-                        url: 'https://ucsd.edu/',
-                        position: 'Computer Science, B.S.',
-                        date: '2026-future'
+                        title: 'Ira A. Fulton Schools of Engineering',
+                        url: 'https://engineering.asu.edu/',
+                        position: 'Aerospace Engineering, B.S.E.',
+                        date: '2023-present'
                     },
                     {
                         title: 'Ira A. Fulton Schools of Engineering',
                         url: 'https://engineering.asu.edu/',
                         position: 'Computer Science, B.S.',
-                        date: '2024-present'
+                        date: '2023-present'
                     },
                     {
                         title: 'W.P. Carey School of Business',
                         url: 'https://wpcarey.asu.edu/',
-                        position: 'Finance & Business, B.A.',
+                        position: 'Asian Languages, Japanese, Minor',
+                        date: '2023-present'
+                    },
+                    {
+                        title: 'ASU, The College of Liberal Arts and Sciences',
+                        url: 'https://thecollege.asu.edu/',
+                        position: 'Finance & Business, Minor',
                         date: '2023-present'
                     },
                     {

@@ -25,7 +25,7 @@ export default Vue.extend({
                 {
                     icon: 'USDT',
                     name: 'Tether USDT',
-                    address: '0xe05FFEADb3b9E1f376dD1180A7A30C13D1cC153d',
+                    address: '0x2ab06c88ed3af0070d85e1470eff88fb3b9a1f97',
                     revealed: false
                 },
                 // {
